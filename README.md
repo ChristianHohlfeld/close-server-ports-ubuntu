@@ -26,12 +26,12 @@ The script automatically checks for the presence of Docker and Docker Compose, e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ChristianHohlfeld/close-server-ports-ubuntu.git
    ```
 
 2. Navigate to the directory:
    ```bash
-   cd your-repo-name
+   cd close-server-ports-ubuntu
    ```
 
 3. Make the script executable:
