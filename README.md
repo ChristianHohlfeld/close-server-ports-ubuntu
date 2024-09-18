@@ -67,9 +67,7 @@ Port   Proto  Service                        In         Out        Description
 - **Deny inbound or outbound traffic:** Select this option to close the port.
 - **Make no changes:** Skip modifying the rule for the port.
 
-## SEO Keywords
-
-To make this repository more discoverable, here are some SEO keywords:
+## Keywords
 
 - UFW port management
 - Docker container port management
