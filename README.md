@@ -1,9 +1,9 @@
 
-# `manage_ports.sh`
+# `close_server_ports.sh`
 
 ## Overview
 
-`manage_ports.sh` is a powerful Bash script designed to simplify the management of UFW (Uncomplicated Firewall) ports and Docker containers on Linux servers. This script allows users to view running Docker containers, identify open ports (both system and Docker-managed), and check their current status (inbound and outbound traffic). Additionally, it gives users the option to open or close ports with ease, enhancing both security and management.
+`close_server_ports.sh` is a powerful Bash script designed to simplify the management of UFW (Uncomplicated Firewall) ports and Docker containers on Linux servers. This script allows users to view running Docker containers, identify open ports (both system and Docker-managed), and check their current status (inbound and outbound traffic). Additionally, it gives users the option to open or close ports with ease, enhancing both security and management.
 
 The script automatically checks for the presence of Docker and Docker Compose, enabling advanced functionalities if they are available. It also parses UFW rules to determine which ports are allowed or denied and provides an interactive prompt to modify these rules.
 
