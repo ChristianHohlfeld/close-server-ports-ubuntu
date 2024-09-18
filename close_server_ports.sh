@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # manage_ports.sh
 # Ein Skript zum Auflisten laufender Docker-Container, offener Ports,
 # Identifizieren von Docker-verwalten Ports, Bestimmen von Anwendungen, die durch Proxys bedient werden,
