@@ -36,12 +36,12 @@ The script automatically checks for the presence of Docker and Docker Compose, e
 
 3. Make the script executable:
    ```bash
-   chmod +x manage_ports.sh
+   chmod +x close_server_ports.sh
    ```
 
 4. Run the script with root privileges:
    ```bash
-   sudo ./manage_ports.sh
+   sudo ./close_server_ports.sh
    ```
 
 ## Usage
